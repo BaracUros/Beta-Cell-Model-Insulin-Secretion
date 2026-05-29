@@ -1,0 +1,16 @@
+# Build outputs
+x64/
+Debug/
+Release/
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.log
+
+# Generated simulation output
+results/
+
+# Visual Studio user/local files
+*.user
+.vs/
