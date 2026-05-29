@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated Biophysical Journal article."
+title: "Beta-Cell-Model-Insulin-Secretion simulation code"
+authors:
+  - family-names: "Barać"
+    given-names: "Uroš"
+version: "1.0.0"
+date-released: "2026-05-29"
+repository-code: "https://github.com/BaracUros/Beta-Cell-Model-Insulin-Secretion"
+license: "MIT"
