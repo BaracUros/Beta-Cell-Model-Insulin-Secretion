@@ -1,6 +1,6 @@
 # Beta-Cell-Model-Insulin-Secretion
 
-This repository contains the C++ source code used for the Beta-Cell-Model-Insulin-Secretion network simulations described in the associated Biophysical Journal manuscript.
+This repository contains the C++ source code used for the Beta-Cell-Model-Insulin-Secretion network simulations described in the associated paper manuscript.
 
 ## Contents
 
@@ -26,7 +26,7 @@ The main simulation parameters are defined in `Kuramoto_Izhikevich.cpp`.
 
 ## Citation
 
-If you use this code, please cite the associated Biophysical Journal article.
+If you use this code, please cite the associated article.
 
 ## License
 
