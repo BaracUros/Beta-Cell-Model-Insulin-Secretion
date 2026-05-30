@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this code, please cite the associated Biophysical Journal article."
+message: "If you use this code, please cite the associated article."
 title: "Beta-Cell-Model-Insulin-Secretion simulation code"
 authors:
   - family-names: "Barać"
